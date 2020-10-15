@@ -1,0 +1,17 @@
+div{
+    margin: 100px;
+    width: 100px;
+    height: 100px;
+    padding-left: 50px;
+    padding-top: 50px;
+    background-color: aqua;
+    box-shadow:grey 10px 10px 10px;
+}
+.btn:hover{
+    transform: translate(-10px,-10px);
+     box-shadow: grey 20px 20px 20px;
+}
+.btn:active{
+    transform: translate(-5px,-5px);
+    box-shadow: grey 5px 5px 5px;
+}

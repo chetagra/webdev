@@ -1,0 +1,29 @@
+*{
+background-color: aqua;   
+}
+.middle{
+display: none;    
+}
+.bottom{
+    display: none;
+}
+li:hover > ol{
+    display: list-item;
+    font-size: larger; 
+}
+#list1{
+    color:red;
+}
+#list2{
+    color: seagreen;
+}
+#list3{
+    color: sienna;
+}
+#list4{
+    color:steelblue;
+}
+#list5{
+    color: darkcyan;
+}
+

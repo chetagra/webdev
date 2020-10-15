@@ -1,0 +1,10 @@
+.box{
+    height: 300px;
+    width: 300px;
+    background-color: lawngreen;
+}
+@media (max-width:1000px){
+.box{
+    background-color: lemonchiffon;
+}
+}

@@ -1,0 +1,135 @@
+.titlebar{
+    width: 100%;  
+    margin: auto; 
+}
+.titlebar a{
+    text-decoration: none;
+    color: #4a4a4a;
+}
+.titlebar span{
+  margin-left: 3px;
+  margin-right: 3px;
+}
+button.book{
+    background-color: goldenrod;
+    color: white;
+    margin-left: 5px;
+}
+.middle{
+  margin-top: 5px;
+  background-image: url(./taj.jpg);
+  width: 100%;
+  height: 500px; 
+}
+button.learn{
+  width: 200px;
+  height: 30px;
+  color: white;
+  background-color: goldenrod;
+  margin-top: 225px;
+  margin-left: 40%;
+}
+.hi{
+  margin-top: 50px;
+  margin-left: 100px;
+color:gold;  
+}
+.search{
+  width: 80%;
+  margin-top: 20px;
+  margin-left: 100px;
+  border-left:goldenrod solid 5px;
+  opacity: 0.4;
+}
+.explore{
+  opacity: 0.4;
+}
+.Book{
+  width: 100%;
+  height: 50px;
+  border: solid 1px gray;
+  box-shadow: gray 10px 5px 5px ;
+}
+.Book div{
+  display: inline-block;
+  height: 30px;
+  margin-left: 50px;
+}
+.Book h3{
+  margin-left: 40px;
+  padding-right: 10px;
+  border-right: solid grey 2px;
+}
+.Book a{
+  text-decoration: none;
+  color: black;
+}
+hr{
+  background-color: goldenrod;
+}
+.pop{
+  width: 100%;
+  height: 500px;
+} 
+.pop hr{
+  background-color: goldenrod;
+  height: 2px;
+  width: 100px;
+}
+.pop > div{
+  display: inline-block;
+  width: 300px;
+  height: 400px;
+  margin:5px;
+  box-shadow:gray 10px 5px 5px;
+}
+
+div div .oneA{
+  width: 300px;
+  height: 300px; 
+  background-image: url(./mumbai.jpeg);
+}
+div div .oneB{
+  width: 300px;
+  height: 300px; 
+  background-image: url(./goa.webp);
+}
+div div .oneC{
+  width: 300px;
+  height: 300px; 
+  background-image: url(./jaipur.jpeg);
+}
+div div .oneD{
+  width: 300px;
+  height: 300px; 
+  background-image: url(./london.jpeg);
+}
+div div img{
+  width: 300px;
+  height: 300px;
+}
+div div .two{
+  margin-top: 30px;
+  margin-left: 10px;
+}
+
+.two button{
+  margin-left:100px ;
+  background-color: goldenrod;
+} 
+.last{
+  background-color:grey;
+  width: 100%;
+  height: 400px;
+}
+ul {
+  list-style-type: none;
+  display: inline-block;
+}
+.list{
+  margin-left: 80px;
+}
+.btn{
+  background-color: goldenrod;
+  color: wheat;
+}
